@@ -8,7 +8,8 @@
 ---
 
 ### Tech Stack
-
+- **C++**
+- **Python**1
 - **PHP**
 - **JAVASCRIPT**
 - **HTML5**
