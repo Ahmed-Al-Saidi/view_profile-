@@ -17,16 +17,6 @@
 
 <div align="center">
   
-```
-
-██████╗ ++     ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-██╔══██╗        ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-██████╔╝        ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-██╔═══╝         ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-██║             ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-╚═╝             ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-
-```
   
 </div>
 
@@ -64,7 +54,7 @@
         <p>OOP-based system built with <strong>Python</strong> — students, teachers, grades, attendance.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square" />
-          <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/Oop-Python-3776AB?style=flat-square&logo=python" />
         </p>
       </td>
     </tr>
@@ -74,7 +64,7 @@
         <p>Online shopping mall website built with <strong>PHP</strong>.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square" />
-          <img src="https://img.shields.io/badge/Stack-PHP-777BB4?style=flat-square&logo=php" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" />
         </p>
       </td>
       <td width="50%" valign="top">
@@ -82,7 +72,7 @@
         <p>Responsive frontend clone with modern UI/UX practices (<strong>HTML5, CSS3, JavaScript</strong>).</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square" />
-          <img src="https://img.shields.io/badge/Stack-Frontend-61DAFB?style=flat-square&logo=react" />
+          <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react" />
         </p>
       </td>
     </tr>
